@@ -1,6 +1,12 @@
 # python-exersises
 
-This project just has a bunch of python problems (with possible solutions) to work through as you learn to code:
+This project just has a bunch of python problems (with possible solutions) to work through as you learn to code. 
+- Each folder has a theme and folders are listed here in the order that you'd want to learn, each folder's exercise builds on the skills that were used in prior folders. 
+- Each exercise is named with [number]-[problem name]-[problem/solution]. 
+- The solutions that I have listed are just the ones that I came up with and you can use them to compare what you did to what I did and check your outputs. Your solution may be different and still totally valid. In some cases I have multiple solutions listed. 
+
+string-operations: 
+   1. break up a long string into sentences, find first/last elment, find words that start with a 'b'
 
 for-loops:
    1. iterate through a list of lists and apply conditional logic to items within
