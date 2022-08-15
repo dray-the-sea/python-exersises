@@ -17,5 +17,5 @@ functions:
    1. write a function that performs mathematical calculations and conditional logic based on 2 inputs 
    2. use 2 finctions to perform calculations on 2 dictionaries and print outputs
 
- 
-
+pandas:
+   1. import a csv file, explore, modify it, and confirm modifications 
