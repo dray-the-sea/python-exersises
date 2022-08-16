@@ -18,4 +18,5 @@ functions:
    2. use 2 finctions to perform calculations on 2 dictionaries and print outputs
 
 pandas:
-   1. import a csv file, explore, modify it, and confirm modifications 
+   1. import the csv file from the Kaggle Titanic competition, explore, modify it, and confirm modifications 
+   2. import, explore, and clean up a sample workout log
