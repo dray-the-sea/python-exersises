@@ -20,3 +20,7 @@ functions:
 pandas:
    1. import the csv file from the Kaggle Titanic competition, explore, modify it, and confirm modifications 
    2. import, explore, and clean up a sample workout log
+
+
+pandas + matplotlib: 
+   1. import data into 2 dataframs, perform operations on the dataframes, and create charts
