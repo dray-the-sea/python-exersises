@@ -1,3 +1,6 @@
+"""
+Exercise to iterate through a dictionary and perform some action based on a condition
+"""
 
 #Sort fruit into 4 boxes:
 #  one for good apples,
